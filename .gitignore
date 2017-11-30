@@ -6,4 +6,5 @@ coverage.html
 lib-cov
 report
 *.swp
-.idea
+.idea/
+/nbproject/
