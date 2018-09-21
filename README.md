@@ -11,7 +11,7 @@
 This module is distributed using [npm](https://npmjs.com) which comes bundled with [node](https://nodejs.org):
 
 ```console
-npm install git+ssh://git@git.younetco.com:YNM/solr-client.git
+npm install git+ssh://git@git.younetmedia.com:10022/YNM/solr-client.git
 ```
 
 
